@@ -1,0 +1,5 @@
+setup|drawFile|tuneFile
+1|./sync_and_async/setup1_syn.csv|./setup_1_result/train/tune_setup1_heter.csv
+2|./sync_and_async/setup2_syn.csv|./setup_2_result/train/tune_newton_agent_setup2_range3_more_data.csv
+3|./sync_and_async/setup3_syn.csv|./setup_3_result/train/tune_newton_agent_setup3_new_3.csv
+4|./sync_and_async/setup4_syn.csv|./setup_4_result/train/tune_newton_agent_setup4_new.csv
